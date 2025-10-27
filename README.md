@@ -1,4 +1,4 @@
-A full-stack web application built with Java and the Spring Framework that allows users to securely manage their personal contacts. This project serves as a practical demonstration of core backend development concepts, including database management, user authentication, and server-side rendering.
+A  web application built with Java and the Spring Framework that allows users to securely manage their personal contacts. This project serves as a practical demonstration of core backend development concepts, including database management, user authentication, and server-side rendering.
 
 ## Screenshots
 
@@ -16,9 +16,7 @@ _Application dashboard and user login page._
 #### Backend
 - Java 17
 - Spring Boot
-- Spring Security
-- Spring Data JPA (Hibernate)
-- Maven
+
 
 #### Frontend
 - Thymeleaf
